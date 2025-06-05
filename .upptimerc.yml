@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kris' Media Server Uptime
   introTitle: "If there's an issue, I'm probably already working on it."
-  introMessage: This is a status page which uses **real-time** data from my infrastructure. 
+  introMessage: This is a status page which uses **real-time** data from the servers.
   navbar:
     - title: Kris' Media Server Status
       href: https://media.lay.scot/emby
