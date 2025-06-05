@@ -13,7 +13,7 @@ sites:
     url: https://media.lay.scot/radarr
   - name: Prowlarr (Download Indexer)
     url: https://media.lay.scot/prowlarr
-   - name: Sabnzbd (Usenet Downloader)
+  - name: Sabnzbd (Usenet Downloader)
     url: https://media.lay.scot/sabnzbd
 
 status-website:
