@@ -5,21 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Emby (Media Server)
     url: https://media.lay.scot/emby
-    icon: https://media.lay.scot/emby/favicon.ico
   - name: Jellyseerr (Request System)
     url: https://request.media.lay.scot
   - name: Sonarr (TV Downloader)
     url: https://media.lay.scot/sonarr
-    icon: https://media.lay.scot/sonarr/Content/Images/logo.svg?h=Q9i1WocFhbrb2NS63sXj5A
   - name: Radarr (Movie Downloader)
     url: https://media.lay.scot/radarr
-    icon: https://media.lay.scot/radarr/Content/Images/logo.svg?h=UK+1ymD8NGZtp+MiKdEQRg
   - name: Prowlarr (Download Indexer)
     url: https://media.lay.scot/prowlarr
-    icon: https://media.lay.scot/prowlarr/Content/Images/logo.svg?h=8opO029fk/f1FoGMvxi9uw
   - name: Sabnzbd (Usenet Downloader)
     url: https://media.lay.scot/sabnzbd
-    icon: https://media.lay.scot/sabnzbd/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
