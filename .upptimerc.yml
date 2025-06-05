@@ -27,10 +27,8 @@ status-website:
   introTitle: "If there's an issue, I'm probably already working on it."
   introMessage: This is a status page which uses **real-time** data from my infrastructure. 
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Kris Media Server Status
+      href: https://media.lay.scot/emby
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
