@@ -15,6 +15,8 @@ sites:
     url: https://media.lay.scot/prowlarr
   - name: Sabnzbd (Usenet Downloader)
     url: https://media.lay.scot/sabnzbd
+  - name: Bazarr (Subtitle Downloader)
+    url: https://media.lay.scot/bazarr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,9 +28,6 @@ status-website:
   name: Kris' Media Server Uptime
   introTitle: "If there's an issue, I'm probably already working on it."
   introMessage: This is a status page which uses **real-time** data from the servers.
-  navbar:
-    - title: Kris' Media Server Status
-      href: https://media.lay.scot/emby
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
