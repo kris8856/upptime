@@ -31,7 +31,7 @@ status-website:
   theme: dark
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  #name: Kris' Media Server Status
+  name: Kris' Media Server Status
   #introTitle: "If there's an issue, I'm probably already working on it."
   #introMessage: This is a status page which uses **real-time** data from the servers.
 
