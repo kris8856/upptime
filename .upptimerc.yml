@@ -34,6 +34,8 @@ status-website:
   name: Kris' Media Server Uptime
   introTitle: "If there's an issue, I'm probably already working on it."
   introMessage: This is a status page which uses **real-time** data from the servers.
+  i18n:
+    footer: 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
