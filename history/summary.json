@@ -22,18 +22,20 @@
     "url": "https://request.media.lay.scot",
     "icon": "https://icons.duckduckgo.com/ip3/request.media.lay.scot.ico",
     "slug": "jellyseerr-request-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1450,
-    "timeDay": 1634,
-    "timeWeek": 1424,
-    "timeMonth": 1450,
-    "timeYear": 1450,
-    "dailyMinutesDown": {}
+    "time": 1424,
+    "timeDay": 1194,
+    "timeWeek": 1340,
+    "timeMonth": 1424,
+    "timeYear": 1424,
+    "dailyMinutesDown": {
+      "2025-06-16": 0
+    }
   },
   {
     "name": "Sonarr (TV Downloader)",
