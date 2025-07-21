@@ -4,9 +4,9 @@
     "url": "https://media.lay.scot/emby",
     "icon": "https://emby.media/favicon-32x32.png",
     "slug": "emby-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1085,
     "timeMonth": 1206,
     "timeYear": 1150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-21": 0
+    }
   },
   {
     "name": "Jellyseerr (Request System)",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.media.lay.scot.ico",
     "slug": "jellyseerr-request-system",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 1378,
     "timeDay": 1681,
     "timeWeek": 1347,
