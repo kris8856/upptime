@@ -5,18 +5,18 @@
     "icon": "https://emby.media/favicon-32x32.png",
     "slug": "emby-media-server",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.89%",
     "time": 1143,
     "timeDay": 856,
     "timeWeek": 1095,
     "timeMonth": 1199,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2025-07-29": 0,
+      "2025-07-29": 28,
       "2025-07-21": 54
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.media.lay.scot.ico",
     "slug": "jellyseerr-request-system",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.31%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.31%",
     "time": 1365,
     "timeDay": 1064,
     "timeWeek": 1242,
     "timeMonth": 1304,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2025-07-29": 0,
+      "2025-07-29": 28,
       "2025-07-12": 413,
       "2025-07-11": 73,
       "2025-06-16": 15
@@ -49,18 +49,18 @@
     "icon": "https://sonarr.tv/img/favicon.ico",
     "slug": "sonarr-tv-downloader",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 254,
     "timeDay": 192,
     "timeWeek": 230,
     "timeMonth": 248,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 28
     }
   },
   {
@@ -69,18 +69,18 @@
     "icon": "https://radarr.video/img/logo.png",
     "slug": "radarr-movie-downloader",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 254,
     "timeDay": 193,
     "timeWeek": 230,
     "timeMonth": 248,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 27
     }
   },
   {
@@ -89,18 +89,18 @@
     "icon": "https://prowlarr.com/logo/32.png",
     "slug": "prowlarr-download-indexer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 254,
     "timeDay": 192,
     "timeWeek": 230,
     "timeMonth": 248,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 27
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://sabnzbd.org/images/favicon.ico",
     "slug": "sabnzbd-usenet-downloader",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 390,
     "timeDay": 297,
     "timeWeek": 353,
     "timeMonth": 379,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 27
     }
   },
   {
@@ -129,18 +129,18 @@
     "icon": "https://www.bazarr.media/assets/img/favicon.ico",
     "slug": "bazarr-subtitle-downloader",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 256,
     "timeDay": 195,
     "timeWeek": 232,
     "timeMonth": 250,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 27
     }
   }
 ]
