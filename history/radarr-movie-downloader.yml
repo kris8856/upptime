@@ -1,7 +1,7 @@
 url: https://media.lay.scot/radarr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-29T01:39:01.445Z
+status: up
+code: 200
+responseTime: 204
+lastUpdated: 2025-07-29T14:58:27.331Z
 startTime: 2025-06-05T17:20:04.425Z
 generator: Upptime <https://github.com/upptime/upptime>
