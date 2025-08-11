@@ -23,6 +23,9 @@ sites:
   - name: Bazarr (Subtitle Downloader)
     url: https://media.lay.scot/bazarr
     icon: https://www.bazarr.media/assets/img/favicon.ico
+  - name: Lidarr (Music Downloader)
+    url: https://media.lay.scot/lidarr
+    icon: https://media.lay.scot/lidarr/Content/Images/Icons/favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
