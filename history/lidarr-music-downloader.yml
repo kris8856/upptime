@@ -1,7 +1,7 @@
 url: https://media.lay.scot/lidarr
-status: up
-code: 200
-responseTime: 289
-lastUpdated: 2025-10-03T23:11:34.244Z
+status: down
+code: 502
+responseTime: 95
+lastUpdated: 2025-10-04T11:18:04.335Z
 startTime: 2025-08-11T15:08:14.136Z
 generator: Upptime <https://github.com/upptime/upptime>
