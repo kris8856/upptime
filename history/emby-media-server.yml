@@ -1,7 +1,7 @@
 url: https://media.lay.scot/emby
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-05T02:24:37.493Z
+status: up
+code: 200
+responseTime: 1356
+lastUpdated: 2025-10-05T05:39:09.632Z
 startTime: 2025-06-05T17:20:00.154Z
 generator: Upptime <https://github.com/upptime/upptime>
