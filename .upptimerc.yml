@@ -6,6 +6,8 @@ sites:
   - name: Emby (Media Server)
     url: https://media.lay.scot/emby
     icon: https://emby.media/favicon-32x32.png
+  - name: Jellyseerr (Request System)
+    url: https://request.media.lay.scot
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
