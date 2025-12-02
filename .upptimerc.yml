@@ -6,26 +6,6 @@ sites:
   - name: Emby (Media Server)
     url: https://media.lay.scot/emby
     icon: https://emby.media/favicon-32x32.png
-  - name: Jellyseerr (Request System)
-    url: https://request.media.lay.scot
-  - name: Sonarr (TV Downloader)
-    url: https://media.lay.scot/sonarr
-    icon: https://sonarr.tv/img/favicon.ico
-  - name: Radarr (Movie Downloader)
-    url: https://media.lay.scot/radarr
-    icon: https://radarr.video/img/logo.png
-  - name: Prowlarr (Download Indexer)
-    url: https://media.lay.scot/prowlarr
-    icon: https://prowlarr.com/logo/32.png
-  - name: Sabnzbd (Usenet Downloader)
-    url: https://media.lay.scot/sabnzbd
-    icon: https://sabnzbd.org/images/favicon.ico
-  - name: Bazarr (Subtitle Downloader)
-    url: https://media.lay.scot/bazarr
-    icon: https://www.bazarr.media/assets/img/favicon.ico
-  - name: Lidarr (Music Downloader)
-    url: https://media.lay.scot/lidarr
-    icon: https://media.lay.scot/lidarr/Content/Images/Icons/favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -35,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kris' Media Server Status
-  #introTitle: "If there's an issue, I'm probably already working on it."
+  introTitle: "If you notice that the server is offline, please recheck later."
   #introMessage: This is a status page which uses **real-time** data from the servers.
 
 # Upptime also supports notifications, assigning issues, and more
