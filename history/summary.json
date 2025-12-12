@@ -4,7 +4,7 @@
     "url": "https://media.lay.scot/emby",
     "icon": "https://emby.media/favicon-32x32.png",
     "slug": "emby-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "96.55%",
     "uptimeWeek": "99.51%",
